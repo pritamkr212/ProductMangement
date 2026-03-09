@@ -9,6 +9,9 @@ Leadership Growth:
 Personal and Professional Improvement:
 "For my overall growth, both personally and professionally, do you have any advice on habits or practices that might help me become more effective in my role?"
 
+Visibility & Impact:
+"What would be the best way for me to ensure that my contributions have visible impact within the team and align with the broader goals of the organization?"
+
 
 Promotion-Focused Question:
 "Since one of my goals is to move from my analyst role to an associate position, could you let me know what key areas or competencies I should focus on that would specifically strengthen my case for promotion?"
@@ -25,7 +28,7 @@ Improve System Performance:
 "I plan to identify and enhance at least one critical area of our backend systems to improve performance metrics, such as reducing costing by a measurable percentage. This will help ensure our services are more robust and reliable under load."
 
 Develop Leadership and Mentorship Skills:
-"To prepare for an associate-level role, I will take on a mentorship role with a junior team member and lead at least one team initiative or knowledge-sharing session. This will help me demonstrate my leadership capabilities and contribute to a collaborative team culture."
+"To prepare for an associate-level role, I will take on a collaborative mentorship role with a junior team member and lead at least one team initiative or knowledge-sharing session. This will help me demonstrate my leadership capabilities and contribute to a collaborative team culture."
 
 
 could you share what key areas or projects you think I should focus on to quickly add value and align with our goals?"
