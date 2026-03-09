@@ -1,3 +1,5 @@
+I drafted a few goals for this year around technical growth, ownership, and AI-related work in the project. Before finalizing them, I wanted to get your thoughts on whether these align well with the team's priorities and what would help me grow toward the Associate level
+
 Questions to Ask Your Manager
 
 Technical Development:
